@@ -15,3 +15,18 @@ Ultz Limited is now in the process of tying up loose ends, and in the coming mon
 Thank you for being on this journey with us.
 
 - Signed Aaron Pearson, Director; and Dylan Perks, Director.
+
+# Open Source Successor (posted 26/01/2022)
+
+With Ultz's closure, we can now confirm the future of our open-source projects.
+
+Key members of Ultz who dedicated the vast majority of their time allocated for Ultz working on its open-source IP have formed an independent organisation to foster development of some of the projects they were working on. This includes:
+
+- **Ultz BCL** (renamed Polyhaze Extensions): An assortment of utilities and backports for .NET Standard 2.0 platforms and up. It now lives at: https://github.com/Polyhaze/Extensions
+- **SharpDB**: 100% Managed C# Key-Value Store High-Performance NoSQL Database with ACID Transaction. It now lives at: https://github.com/Polyhaze/SharpDB
+- **Volte**: A free, robust, open-source Discord bot written in C# 8 using .NET Core 3.1 and a whole lotta Man Hours. It now lives at: https://github.com/Polyhaze/Volte
+- **XNFC**: Xamarin/Cross-Platform Near Field Communication (NFC) library. It now lives at: https://github.com/Polyhaze/XNFC
+
+All forks maintained by Ultz have been deleted, and all other open-source projects have been archived. Proprietary IP has been distributed amongst the members.
+
+To learn more about Polyhaze, see the GitHub page here: https://github.com/Polyhaze
